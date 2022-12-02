@@ -98,8 +98,6 @@ button {
     color: white;
     animation:  10s rotar infinite;
   }
-  
-  /* Clear floats after image containers */
 
 .row{
     background-color: #333333;
@@ -117,15 +115,6 @@ button {
     height: 200px;
     border: solid gray;
 }
-
-
-.text1 {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    text-decoration-color: black;
-    transform: translate(-50%, -50%);
-  }
 
 @keyframes rotar{
     from{
